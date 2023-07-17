@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "UntitledTTF";
+  src: url("poppins/UntitledTTF.woff2") format("woff2"),
+    url("poppins/UntitledTTF.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/DVNPoppins-Regular.woff2") format("woff2"),
+    url("poppins/DVNPoppins-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/DVNPoppins-ExtraBold.woff2") format("woff2"),
+    url("poppins/DVNPoppins-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/SVN-PoppinsSemiBold.woff2") format("woff2"),
+    url("poppins/SVN-PoppinsSemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/SVN-PoppinsLight.woff2") format("woff2"),
+    url("poppins/SVN-PoppinsLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/SVN-PoppinsBold.woff2") format("woff2"),
+    url("poppins/SVN-PoppinsBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("poppins/SVN-PoppinsMedium.woff2") format("woff2"),
+    url("poppins/SVN-PoppinsMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
